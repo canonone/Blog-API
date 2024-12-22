@@ -1,1 +1,1 @@
-# Blog-API
+This is a Blogging API.
